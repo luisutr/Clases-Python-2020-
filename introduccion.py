@@ -1,3 +1,0 @@
-def programa():
-  print("hola")
-
